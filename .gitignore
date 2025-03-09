@@ -1,0 +1,15 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.packages
+build/
+.pub-cache/
+*.lock
+
+# IDEs
+.idea/
+.vscode/
+
+# Secrets
+*.env
+keys.json
